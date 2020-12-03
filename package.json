@@ -1,5 +1,5 @@
 {
-  "name": "devbayer/authentication-oauth",
+  "name": "@devbayer/authentication-oauth",
   "description": "oAuth 1 and 2 authentication for Feathers. Powered by Grant.",
   "version": "4.5.10",
   "homepage": "https://feathersjs.com",
